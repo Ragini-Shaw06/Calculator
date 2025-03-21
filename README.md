@@ -38,21 +38,7 @@ If not installed, download and install Java from [Oracle's official website](htt
 - The output is shown immediately.
 
 ## Contributing
-If you would like to contribute:
-1. Fork the repository.
-2. Make a feature branch:
-   ```sh
-   git checkout -b feature-enhancement
-   ```
-3. Commit your changes:
-   ```sh
-   git commit -m "Improved UI and added new features"
-   ```
-4. Push your branch:
-   ```sh
-   git push origin feature-enhancement
-   ```
-5. Create a pull request.
+Contributions are welcome! Please create a pull request or open an issue for any changes or suggestions.
 
 ## Contact
 Email:raginishaw0607@gmail.com
